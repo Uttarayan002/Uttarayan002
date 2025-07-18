@@ -1,20 +1,11 @@
-# Hi, I'm Uttarayan 
+### Welcome to my GitHub. Hi, I'm Uttarayan 
 **Data Science | Insight-Driven Problem Solver with Business Context**
 
-Welcome to my GitHub! I solve business problems through data, systems thinking, and experimentation. 
+I solve business problems through data, systems thinking, and experimentation. 
 
 ## About
-Well as you can see from my profile, I'm a computer science graduate passionate about translating raw data into business insights. Currently upskilling in Data Science and Reinforcement Learning with hands-on 
-projects. A strong foundation in Python, SQL, Machine Learning passionate about solving real-world problems with data. My work spans from analyzing case studies and Key performance indicators to building 
-machine learning models that provide values for decisions.
-I approach problems with a mix of technical skill and business sense — aiming not just for accuracy, but for impact. Whether it's reducing forecasting errors, preventing fraud in biometric systems, or 
-optimizing inventory through dynamic pricing, I love transforming data into decisions.
-
-Currently focused on:
-- Deep Learning, Natural Language Processing and Transformers.
-- Building a **Dynamic Pricing Engine** using Reinforcement Learning & Time Series Forecasting
-- Exploring **Product & Revenue Analytics** in e-commerce environments
-- Creating **dashboard-ready, business-focused flat datasets** from raw data
+Well as you can see from my profile, I'm a computer science graduate passionate about translating raw data into business insights. Currently focus in Deep Learning and Reinforcement Learning with hands-
+on projects. I solve business problems through data, systems thinking, and experimentation. My work spans from analyzing case studies and Key performance indicators to building machine learning models that provide values for decisions. I approach problems with a mix of technical skill and business sense,  aiming not just for accuracy, but for impact. I love transforming data into decisions.
 
 ***I believe in continuous learning, fast iteration, and contributing to data-driven business growth.***
 
@@ -22,20 +13,20 @@ Currently focused on:
 
 ### Languages & Libraries  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#)
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### Visualization  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-323330?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2A2D3E?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)
 
 ### Tools & Platforms  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -50,5 +41,5 @@ Currently focused on:
 [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
 
 
-## Let's Connect
+**Let's Connect**
 
