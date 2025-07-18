@@ -1,4 +1,4 @@
-# Hi, I'm Uttarayan 👋  
+# Hi, I'm Uttarayan 
 **Data Science | Insight-Driven Problem Solver with Business Context**
 
 Welcome to my GitHub! I solve business problems through data, systems thinking, and experimentation. 
