@@ -1,19 +1,16 @@
                                                                         
-###  Hi, I'm Uttarayan.  
+# Uttarayan Haldar 
 **Data Science | Insight-Driven Problem Solver with Business Context**
 
-Welcome to my GitHub !
 
-## About
-Well as you can see from my profile, I'm a computer science graduate passionate about translating raw data into business insights. Currently focus in Deep Learning and Reinforcement Learning with hands-
-on projects. I solve business problems through data, systems thinking, and experimentation. My work spans from analyzing case studies and Key performance indicators to building machine learning models that 
-provide values for decisions. I approach problems with a mix of technical skill and business sense,  aiming not just for accuracy, but for impact. I love transforming data into decisions.
+Well as you can see from my profile, I'm passionate about translating raw data into business insights. Currently focus in Deep Learning and Reinforcement Learning with hands-on projects. I solve business problems through data, systems thinking, and experimentation. My work spans from analyzing case studies to building Key performance indicators and machine learning models that 
+provide values for decisions making. I approach problems with a mix of  business sense and technical skill,  aiming not just for accuracy, but for impact and values. I love transforming data into decisions.
 
  ### ***I believe in continuous learning, fast iteration, and contributing to data-driven business growth.***
 
 **Let's Connect.**
 
-## Tools & Technologies
+## Here are the tools, libraries, technologies and frameworks I've worked with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
