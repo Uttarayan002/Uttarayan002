@@ -1,6 +1,6 @@
                                                                         
-# Uttarayan Haldar 
-   **Data Science | Insight-Driven Problem Solver with Business Context**
+# Uttarayan Haldar
+**Data Science | Insight-Driven Problem Solver with Business Context**
 
 
 Well as you can see from my profile, I am passionate about turning raw data into valuable business insights. Right now, I am focused on Deep Learning and Reinforcement Learning. I work on hands-on projects 
@@ -8,6 +8,7 @@ to improve my skills. I specialize in solving business issues through data analy
 (KPIs) and machine learning models that help with decision-making.
 I tackle problems by combining business knowledge and technical skills. I aim not just for correctness but also for impact and value. I enjoy transforming data into actionable decisions and always look for 
 chances to learn and grow in this fast-changing field. 
+
 ***I believe in continuous learning, fast iteration, and contributing to data-driven business growth.***
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
