@@ -1,14 +1,16 @@
                                                                         
 # Uttarayan Haldar 
-**Data Science | Insight-Driven Problem Solver with Business Context**
+   **Data Science | Insight-Driven Problem Solver with Business Context**
 
 
-Well as you can see from my profile, I'm passionate about translating raw data into business insights. Currently focus in Deep Learning and Reinforcement Learning with hands-on projects. I solve business problems through data, systems thinking, and experimentation. My work spans from analyzing case studies to building Key performance indicators and machine learning models that 
-provide values for decisions making. I approach problems with a mix of  business sense and technical skill,  aiming not just for accuracy, but for impact and values. I love transforming data into decisions.
+Well as you can see from my profile, I am passionate about turning raw data into valuable business insights. Right now, I am focused on Deep Learning and Reinforcement Learning. I work on hands-on projects 
+to improve my skills. I specialize in solving business issues through data analysis, systems thinking, and experimentation. My work includes analyzing case studies and developing Key Performance Indicators 
+(KPIs) and machine learning models that help with decision-making.
+I tackle problems by combining business knowledge and technical skills. I aim not just for correctness but also for impact and value. I enjoy transforming data into actionable decisions and always look for 
+chances to learn and grow in this fast-changing field. 
+***I believe in continuous learning, fast iteration, and contributing to data-driven business growth.***
 
- ### ***I believe in continuous learning, fast iteration, and contributing to data-driven business growth.***
-
-**Let's Connect.**
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
 
 ## Here are the tools, libraries, technologies and frameworks I've worked with:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
