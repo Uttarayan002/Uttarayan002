@@ -7,13 +7,13 @@ Well as you can see from my profile, I solve business problems by turning raw da
 ***A data scientist is only as valuable as the quality of data they deliver to decision-makers.***
 ## Contacts
 <p align="left">
-  <a href="https:/[/www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/uttarayan-haldar-583786286/)" target="_blank">
+  <a href="https://www.linkedin.com/in/uttarayan-haldar-583786286/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:uttarayan.haldar.data@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://yourblogdomain.com](https://medium.com/@UttarayanData)" target="_blank">
+  <a href="https://medium.com/@UttarayanData" target="_blank">
     <img src="https://img.shields.io/badge/Blog-111111?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/>
   </a>
 </p>
