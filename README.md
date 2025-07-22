@@ -4,6 +4,11 @@
 
 Well as you can see from my profile, I solve business problems by turning raw data into decisions that move the needle. With experience building KPIs, ML models, and pipelines, I focus on clarity, outcomes, and measurable business value. Currently deepening my expertise in NLP and Reinforcement Learning to solve next-gen decision problems. My approach blends systems thinking, fast iteration, and team-aligned delivery. I'm ready to bring this mindset into a data team focused on growth, clarity, and impact.
 
+## Currently Leveling Up In
+- Advanced NLP with spaCy & Transformers
+- Modular Data Cleaning Pipelines
+- Deployment with Streamlit + Docker
+
 ***A data scientist is only as valuable as the quality of data they deliver to decision-makers.***
  
 ###  Connect with me 
@@ -11,7 +16,8 @@ Well as you can see from my profile, I solve business problems by turning raw da
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttarayan002)
 [![Blog](https://img.shields.io/badge/Blog-111111?logo=hashnode&logoColor=white)](https://medium.com/@UttarayanData)
 
-## Techical Stack
+
+## Technical Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
