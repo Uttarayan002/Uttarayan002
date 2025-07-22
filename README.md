@@ -1,12 +1,8 @@
                                                                         
-# Uttarayan Haldar
-**Early-Career Data Scientist | Solving Real-World Problems with Business context**
+# Hi, I’m Uttarayan Haldar 
+**Early-Career Data Scientist |  Driving Business Impact with Data & ML**
 
-Well as you can see from my profile, I am passionate about turning raw data into valuable business insights. Right now, I am focused on Deep Learning and Reinforcement Learning. I work on hands-on projects 
-to improve my skills. I specialize in solving business issues through data analysis, systems thinking, and experimentation. My work includes analyzing case studies and developing Key Performance Indicators 
-(KPIs) and machine learning models that help with decision-making.
-I tackle problems by combining business knowledge and technical skills. I aim not just for correctness but also for impact and value. I enjoy transforming data into actionable decisions and always look for 
-chances to learn and grow in this fast-changing field. 
+Well as you can see from my profile, I solve business problems by turning raw data into decisions that move the needle. With experience building KPIs, ML models, and pipelines, I focus on clarity, outcomes, and measurable business value. Currently deepening my expertise in NLP and Reinforcement Learning to solve next-gen decision problems. My approach blends systems thinking, fast iteration, and team-aligned delivery. I'm ready to bring this mindset into a data team focused on growth, clarity, and impact.
 
 ***A data scientist is only as valuable as the quality of data they deliver to decision-makers.***
 
