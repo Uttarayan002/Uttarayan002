@@ -1,6 +1,6 @@
                                                                         
 # Hi, I’m Uttarayan Haldar 
-**Early-Career Data Scientist |  Driving Business Impact with Data & ML**
+**Data Science Practitioner |  Driving Business Impact with Data & ML**
 
 Well as you can see from my profile, I solve business problems by turning raw data into decisions that move the needle. With experience building KPIs, ML models, and pipelines, I focus on clarity, outcomes, and measurable business 
 value. Currently deepening my expertise in NLP and Reinforcement Learning to solve next-gen decision problems. My approach blends systems thinking, fast iteration, and team-aligned delivery. I'm ready to bring this mindset into a 
@@ -13,12 +13,6 @@ data team focused on growth, clarity, and impact.
 - Modular and ML Pipelines
 - Deployment with Streamlit + Docker
 
- 
-###  Connect with me 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttarayan002)
-[![Blog](https://img.shields.io/badge/Blog-111111?logo=hashnode&logoColor=white)](https://medium.com/@UttarayanData)
-
 
 ## Technical Stack
 
@@ -26,3 +20,8 @@ data team focused on growth, clarity, and impact.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)   ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)   ![Seaborn](https://img.shields.io/badge/-Seaborn-5A7AA7?style=for-the-badge)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)   ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white&style=for-the-badge)   ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)   ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)   ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)  ![XGBoost](https://img.shields.io/badge/-XGBoost-FF6600?logo=xgboost&logoColor=white&style=for-the-badge)   ![LightGBM](https://img.shields.io/badge/-LightGBM-7ABF4B?logo=lightgbm&logoColor=white&style=for-the-badge)   ![NLTK](https://img.shields.io/badge/-NLTK-FFB300?logo=nltk&logoColor=white&style=for-the-badge)   ![OpenAI Gym](https://img.shields.io/badge/-OpenAI%20Gym-000000?style=for-the-badge)   ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-222222?style=for-the-badge)   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)   ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge)
+
+###  Connect with me 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttarayan002)
+[![Blog](https://img.shields.io/badge/Blog-111111?logo=hashnode&logoColor=white)](https://medium.com/@UttarayanData)
