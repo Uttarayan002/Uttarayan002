@@ -1,4 +1,3 @@
-                                                                        
 # Hi, I’m Uttarayan Haldar 
 **Data Science Practitioner |  Driving Business Impact with Data & ML**
 
