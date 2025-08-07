@@ -1,15 +1,14 @@
 # Hi, I’m Uttarayan Haldar 
-**Data Science Practitioner |  Driving Business Impact with Data & ML**
+**Data Science Practitioner | Turning Data into Decisions**
 
-- I solve business problems by transforming raw data into high-impact decisions.
-- Experienced in building KPIs, ML models, and scalable data pipelines.
-- Currently focused on NLP and Reinforcement Learning to tackle complex decision challenges.
-- I bring a mindset of systems thinking, rapid iteration, and cross-functional collaboration.
-- Eager to contribute to a team driving growth, clarity, and measurable outcomes.
+- Transforming messy data into business-ready insights, enabling better product decisions and marketing optimization.
+- Experienced in building KPI Dashboards, ML models, and scalable data pipelines.
+- Currently focused on  NLP and Reinforcement Learning to tackle complex decision challenges.
+- Driving product & growth decisions through clear, measurable data stories.
 
 ***"A data scientist is only as valuable as the quality of data they deliver to decision-makers."***
 
-## Tech Skills
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge)  <img src="https://img.shields.io/badge/Amazon%20Athena-00adb3?style=for-the-badge&logo=amazonaws&logoColor=blue" alt="Amazon Athena Badge"/>    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon S3 Badge"/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
