@@ -1,8 +1,6 @@
 # Hi, I’m Uttarayan Haldar 
 ***Computer Science graduate, continuously mastering Data Science & AI through self-learning - building impactful, industry-grade projects and applying skills to solve real business problems, while advancing toward a high-impact analytics career.***
 
-**Data Science Practitioner | Turning Data into Decisions**
-
 - Currently focused on  NLP and Reinforcement Learning to tackle complex decision challenges.
 - Transforming messy data into business-ready insights, enabling better product decisions and marketing optimization.
 - Experienced in building KPI Dashboards, ML models, and scalable data pipelines.
