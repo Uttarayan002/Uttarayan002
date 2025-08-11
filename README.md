@@ -1,12 +1,14 @@
 # Hi, I’m Uttarayan Haldar 
+***Computer Science graduate, continuously mastering Data Science & AI through self-learning - building impactful, industry-grade projects and applying skills to solve real business problems, while advancing toward a high-impact analytics career.***
+
 **Data Science Practitioner | Turning Data into Decisions**
 
+- Currently focused on  NLP and Reinforcement Learning to tackle complex decision challenges.
 - Transforming messy data into business-ready insights, enabling better product decisions and marketing optimization.
 - Experienced in building KPI Dashboards, ML models, and scalable data pipelines.
-- Currently focused on  NLP and Reinforcement Learning to tackle complex decision challenges.
 - Driving product & growth decisions through clear, measurable data stories.
 
-***"A data scientist is only as valuable as the quality of data they deliver to decision-makers."***
+ ***"In data science, your worth isn’t in the models you build. It’s in the decisions your data makes possible."***
 
 ## Tech Stack
 
@@ -17,7 +19,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)   ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)  
 
 
-###  Interested in collaborating on data-driven projects? Let's connect!
+### Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttarayan-haldar-583786286)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttarayan.haldar.data@gmail.com)
